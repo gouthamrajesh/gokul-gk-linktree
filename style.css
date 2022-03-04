@@ -69,6 +69,19 @@ a.urls:hover
     background-color: rgb(220, 213, 231);
 }
 
+.footer
+{
+    margin-top: 30px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.footer a
+{
+    color: yellow;
+    text-decoration: none;
+}
+
 /*============================================================
 	For Small Desktop
 ==============================================================*/
